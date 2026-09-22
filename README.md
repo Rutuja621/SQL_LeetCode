@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1179-reformat-department-table) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1667-fix-names-in-a-table](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1683-invalid-tweets) |
