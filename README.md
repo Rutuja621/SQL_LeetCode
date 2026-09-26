@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1179-reformat-department-table) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1407-top-travellers](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1407-top-travellers) |
 | [1667-fix-names-in-a-table](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
