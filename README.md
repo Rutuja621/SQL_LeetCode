@@ -43,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1115-print-foobar-alternately](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1115-print-foobar-alternately) |
+| [1195-fizz-buzz-multithreaded](https://github.com/Rutuja621/SQL_LeetCode/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
