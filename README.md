@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/Rutuja621/SQL_LeetCode/tree/master/0728-self-dividing-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rutuja621/SQL_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Concurrency
 |  |
